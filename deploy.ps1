@@ -67,7 +67,7 @@ Function RegisterRP {
 $ErrorActionPreference = "Stop"
 
 # sign in
-Write-Host "Logging in...";
+#Write-Host "Logging in...";
 #Login-AzureRmAccount;
 
 # select subscription
