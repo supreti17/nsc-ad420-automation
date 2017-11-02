@@ -6,37 +6,37 @@
             "value": "westus"
         },
         "virtualMachineName": {
-            "value": "automation-test"
+            "value": "suraj-lecture6"
         },
         "virtualMachineSize": {
             "value": "Standard_B1s"
         },
         "adminUsername": {
-            "value": "toddysmroot"
+            "value": "surajroot"
         },
         "virtualNetworkName": {
-            "value": "nsc-automation-vnet"
+            "value": "suraj-lecture6-vnet"
         },
         "networkInterfaceName": {
-            "value": "automation-test932"
+            "value": "suraj-lecture6"
         },
         "diskSizeGB": {
             "value": "30"
         },
         "networkSecurityGroupName": {
-            "value": "automation-test-nsg"
+            "value": "suraj-lecture6-nsg"
         },
         "adminPassword": {
             "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "nscautomationdiag"
+            "value": "suraj16diag"
         },
         "diagnosticsStorageAccountType": {
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/nscautomationdiag"
+            "value": "Microsoft.Storage/storageAccounts/surajl6diag"
         },
         "addressPrefix": {
             "value": "10.0.0.0/24"
@@ -48,7 +48,7 @@
             "value": "10.0.0.0/24"
         },
         "publicIpAddressName": {
-            "value": "automation-test-ip"
+            "value": "suraj-lecture6-pubip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
